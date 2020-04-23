@@ -15,7 +15,7 @@ import com.google.common.collect.ImmutableMap;
 
 public class TestApp {
 
-    private static String HUB_IP = "192.168.56.1";
+    private static String HUB_IP = "192.168.56.101";
 
     public static void main(String[] args) throws MalformedURLException {
         Capabilities capabilities = null;
